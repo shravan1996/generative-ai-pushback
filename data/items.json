@@ -1,0 +1,522 @@
+[
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Priya works full time and started on 9 July 2021. How many days of annual leave, not counting public holidays, is Priya entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "25",
+    "wrong": [
+      "28",
+      "30"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-1"
+  },
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Tomasz works full time and started on 4 September 2021. How many days of annual leave, not counting public holidays, is Tomasz entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "25",
+    "wrong": [
+      "28",
+      "30"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-2"
+  },
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Aisha works full time and started on 8 March 2016. How many days of annual leave, not counting public holidays, is Aisha entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "28",
+    "wrong": [
+      "30",
+      "25"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-3"
+  },
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Daniel works full time and started on 17 June 2016. How many days of annual leave, not counting public holidays, is Daniel entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "28",
+    "wrong": [
+      "30",
+      "25"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-4"
+  },
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Mei works 3 days a week (full time is 5) and started on 22 June 2021. How many days of annual leave, not counting public holidays, is Mei entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "15",
+    "wrong": [
+      "17",
+      "18"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-5"
+  },
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Kwame works 4 days a week (full time is 5) and started on 5 May 2021. How many days of annual leave, not counting public holidays, is Kwame entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "20",
+    "wrong": [
+      "22.5",
+      "24"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-6"
+  },
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Sofia works 3 days a week (full time is 5) and started on 10 March 2016. How many days of annual leave, not counting public holidays, is Sofia entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "17",
+    "wrong": [
+      "18",
+      "15"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-7"
+  },
+  {
+    "kind": "leave",
+    "answer_type": "number",
+    "document": "Northfield Analytics: Annual leave policy (extract)\n\n1. The leave year runs from 1 January to 31 December.\n2. Full-time staff receive 25 days of paid annual leave in each leave year, plus public holidays.\n3. Staff who have completed five full years of continuous service by 1 January of a leave year receive 28 days for that leave year. Staff who have completed ten full years by that date receive 30 days.\n4. Part-time staff receive a pro-rata share of the full-time entitlement that applies to them, rounded up to the nearest half day.\n5. Up to five unused days may be carried into the next leave year with a line manager's approval.",
+    "question": "Rhys works 4 days a week (full time is 5) and started on 4 June 2016. How many days of annual leave, not counting public holidays, is Rhys entitled to in the 2026 leave year? Give a number of days.",
+    "truth": "22.5",
+    "wrong": [
+      "24",
+      "20"
+    ],
+    "mistake": "counted the years as 2026 minus the start year instead of full years completed by 1 January",
+    "id": "leave-8"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4100\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Headset, USB | 10 | £49.75 |\n| A4 copier paper, box of 5 reams | 3 | £56.50 |\n| Toner cartridge, black | 2 | £64.25 |\n| Filing cabinet, 3 drawer | 1 | £258.75 |",
+    "question": "What is the total amount payable for quote HS-4100, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1138.59",
+    "wrong": [
+      "1265.10",
+      "948.83"
+    ],
+    "mistake": "forgot the discount",
+    "id": "quote-1"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4101\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Laptop stand, aluminium | 1 | £225.00 |\n| Toner cartridge, black | 8 | £94.25 |\n| Shredder, cross cut | 7 | £10.50 |",
+    "question": "What is the total amount payable for quote HS-4101, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1136.70",
+    "wrong": [
+      "1263.00",
+      "947.25"
+    ],
+    "mistake": "forgot the discount",
+    "id": "quote-2"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4102\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Whiteboard, 1200 x 900 mm | 1 | £378.00 |\n| A4 copier paper, box of 5 reams | 2 | £58.75 |\n| Toner cartridge, black | 1 | £73.00 |\n| Footrest, adjustable | 12 | £39.50 |",
+    "question": "What is the total amount payable for quote HS-4102, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1125.90",
+    "wrong": [
+      "1251.00",
+      "938.25"
+    ],
+    "mistake": "forgot the discount",
+    "id": "quote-3"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4103\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Desk lamp, LED | 7 | £41.75 |\n| Office chair, mesh back | 11 | £39.75 |\n| Whiteboard, 1200 x 900 mm | 1 | £236.75 |\n| Footrest, adjustable | 7 | £9.00 |",
+    "question": "What is the total amount payable for quote HS-4103, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1111.59",
+    "wrong": [
+      "1235.10",
+      "926.33"
+    ],
+    "mistake": "forgot the discount",
+    "id": "quote-4"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4104\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Laptop stand, aluminium | 2 | £81.00 |\n| A4 copier paper, box of 5 reams | 2 | £284.75 |\n| Filing cabinet, 3 drawer | 1 | £254.25 |",
+    "question": "What is the total amount payable for quote HS-4104, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1182.90",
+    "wrong": [
+      "1064.61",
+      "985.75"
+    ],
+    "mistake": "applied the discount because the total with VAT is over £1,000",
+    "id": "quote-5"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4105\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Monitor arm, single | 1 | £105.75 |\n| Footrest, adjustable | 2 | £251.50 |\n| A4 copier paper, box of 5 reams | 3 | £119.25 |",
+    "question": "What is the total amount payable for quote HS-4105, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1159.80",
+    "wrong": [
+      "1043.82",
+      "966.50"
+    ],
+    "mistake": "applied the discount because the total with VAT is over £1,000",
+    "id": "quote-6"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4106\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Office chair, mesh back | 5 | £151.00 |\n| Laptop stand, aluminium | 2 | £35.50 |\n| Toner cartridge, black | 2 | £17.50 |",
+    "question": "What is the total amount payable for quote HS-4106, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1033.20",
+    "wrong": [
+      "929.88",
+      "861.00"
+    ],
+    "mistake": "applied the discount because the total with VAT is over £1,000",
+    "id": "quote-7"
+  },
+  {
+    "kind": "quote",
+    "answer_type": "money",
+    "document": "Halden Supplies: Trade terms (extract)\n\n- Prices on this quote exclude VAT.\n- Orders with a subtotal above £1,000.00 before VAT receive a 10% discount on that subtotal.\n- VAT is charged at 20% on the amount after any discount.\n- Delivery is free on orders over £250.00 before VAT. Smaller orders pay £15.00 delivery before VAT.\n- Quotes are valid for 30 days from the date of issue.\n\nQuote HS-4107\n\n| Item | Quantity | Unit price (excl. VAT) |\n| --- | --- | --- |\n| Shredder, cross cut | 2 | £261.50 |\n| Whiteboard, 1200 x 900 mm | 2 | £121.50 |\n| Laptop stand, aluminium | 10 | £19.50 |",
+    "question": "What is the total amount payable for quote HS-4107, including VAT? Give the amount in pounds to the penny, as a number like 1234.56.",
+    "truth": "1153.20",
+    "wrong": [
+      "1037.88",
+      "961.00"
+    ],
+    "mistake": "applied the discount because the total with VAT is over £1,000",
+    "id": "quote-8"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2600 | 17 September 2026 | 23 September 2026 | Delivered |\n| SH-2601 | 24 September 2026 | 28 September 2026 | Delivered |\n| SH-2602 | 10 September 2026 | 14 September 2026 | Delivered |\n| SH-2603 | 7 September 2026 | 7 September 2026 | Delivered |\n| SH-2604 | 18 September 2026 | 24 September 2026 | Delivered |\n| SH-2605 | 5 October 2026 | 9 October 2026 | Delivered |\n| SH-2606 | 2 September 2026 | 8 September 2026 | Refused by customer |\n| SH-2607 | 6 October 2026 | 7 October 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "3",
+    "wrong": [
+      "5",
+      "4"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-1"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2610 | 2 September 2026 | 8 September 2026 | Delivered |\n| SH-2611 | 4 September 2026 | 8 September 2026 | Delivered |\n| SH-2612 | 2 September 2026 | 2 September 2026 | Delivered |\n| SH-2613 | 17 September 2026 | 23 September 2026 | Delivered |\n| SH-2614 | 21 September 2026 | 25 September 2026 | Refused by customer |\n| SH-2615 | 8 September 2026 | 8 September 2026 | Delivered |\n| SH-2616 | 11 September 2026 | 14 September 2026 | Delivered |\n| SH-2617 | 29 September 2026 | 30 September 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "2",
+    "wrong": [
+      "4",
+      "3"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-2"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2620 | 6 October 2026 | 12 October 2026 | Delivered |\n| SH-2621 | 25 September 2026 | 29 September 2026 | Delivered |\n| SH-2622 | 25 September 2026 | 29 September 2026 | Delivered |\n| SH-2623 | 5 October 2026 | 6 October 2026 | Delivered |\n| SH-2624 | 21 September 2026 | 25 September 2026 | Delivered |\n| SH-2625 | 21 September 2026 | 28 September 2026 | Delivered |\n| SH-2626 | 6 October 2026 | 12 October 2026 | Refused by customer |\n| SH-2627 | 2 October 2026 | 5 October 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "3",
+    "wrong": [
+      "6",
+      "4"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-3"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2630 | 25 September 2026 | 29 September 2026 | Delivered |\n| SH-2631 | 30 September 2026 | 2 October 2026 | Delivered |\n| SH-2632 | 2 September 2026 | 7 September 2026 | Refused by customer |\n| SH-2633 | 8 October 2026 | 12 October 2026 | Delivered |\n| SH-2634 | 4 September 2026 | 7 September 2026 | Delivered |\n| SH-2635 | 4 September 2026 | 7 September 2026 | Delivered |\n| SH-2636 | 23 September 2026 | 24 September 2026 | Delivered |\n| SH-2637 | 17 September 2026 | 22 September 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "1",
+    "wrong": [
+      "5",
+      "2"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-4"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2640 | 29 September 2026 | 2 October 2026 | Delivered |\n| SH-2641 | 30 September 2026 | 5 October 2026 | Delivered |\n| SH-2642 | 7 October 2026 | 12 October 2026 | Delivered |\n| SH-2643 | 11 September 2026 | 11 September 2026 | Delivered |\n| SH-2644 | 1 September 2026 | 3 September 2026 | Delivered |\n| SH-2645 | 30 September 2026 | 5 October 2026 | Refused by customer |\n| SH-2646 | 24 September 2026 | 28 September 2026 | Delivered |\n| SH-2647 | 2 October 2026 | 6 October 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "3",
+    "wrong": [
+      "5",
+      "4"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-5"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2650 | 28 September 2026 | 2 October 2026 | Delivered |\n| SH-2651 | 2 September 2026 | 7 September 2026 | Refused by customer |\n| SH-2652 | 11 September 2026 | 14 September 2026 | Delivered |\n| SH-2653 | 4 September 2026 | 7 September 2026 | Delivered |\n| SH-2654 | 25 September 2026 | 28 September 2026 | Delivered |\n| SH-2655 | 21 September 2026 | 25 September 2026 | Delivered |\n| SH-2656 | 29 September 2026 | 1 October 2026 | Delivered |\n| SH-2657 | 8 September 2026 | 14 September 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "3",
+    "wrong": [
+      "6",
+      "4"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-6"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2660 | 10 September 2026 | 14 September 2026 | Delivered |\n| SH-2661 | 17 September 2026 | 21 September 2026 | Delivered |\n| SH-2662 | 5 October 2026 | 7 October 2026 | Delivered |\n| SH-2663 | 14 September 2026 | 17 September 2026 | Delivered |\n| SH-2664 | 29 September 2026 | 5 October 2026 | Refused by customer |\n| SH-2665 | 8 October 2026 | 12 October 2026 | Delivered |\n| SH-2666 | 18 September 2026 | 22 September 2026 | Delivered |\n| SH-2667 | 8 October 2026 | 9 October 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "1",
+    "wrong": [
+      "5",
+      "2"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-7"
+  },
+  {
+    "kind": "shipments",
+    "answer_type": "number",
+    "document": "Carrier service agreement, Schedule 2: Service levels (extract)\n\n2.1 Each shipment has a promised delivery date, set when the shipment is booked.\n2.2 A shipment is late if it is delivered more than two working days after its promised delivery date.\n2.3 Working days are Monday to Friday, excluding UK public holidays. No UK public holiday falls between 1 September and 30 October 2026.\n2.4 Shipments refused by the customer are excluded from the late count.\n2.5 The carrier reports on-time performance monthly.\n\nShipments for account 7731\n\n| Shipment | Promised | Delivered | Status |\n| --- | --- | --- | --- |\n| SH-2670 | 2 September 2026 | 7 September 2026 | Refused by customer |\n| SH-2671 | 3 September 2026 | 8 September 2026 | Delivered |\n| SH-2672 | 25 September 2026 | 29 September 2026 | Delivered |\n| SH-2673 | 22 September 2026 | 22 September 2026 | Delivered |\n| SH-2674 | 6 October 2026 | 9 October 2026 | Delivered |\n| SH-2675 | 7 September 2026 | 14 September 2026 | Delivered |\n| SH-2676 | 15 September 2026 | 21 September 2026 | Delivered |\n| SH-2677 | 11 September 2026 | 14 September 2026 | Delivered |",
+    "question": "Under this agreement, how many of the shipments in the table for account 7731 count as late? Give a whole number.",
+    "truth": "4",
+    "wrong": [
+      "6",
+      "5"
+    ],
+    "mistake": "counted calendar days instead of working days",
+    "id": "shipments-8"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Priya for a trip from 6 September 2026 to 10 September 2026:\n\n- 6 September 2026: £62.28\n- 7 September 2026: £45.48\n- 8 September 2026: £40.17\n- 9 September 2026: £35.45\n- 10 September 2026: £38.37",
+    "question": "How much should Priya be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "188.12",
+    "wrong": [
+      "203.99",
+      "202.50"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-1"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Tomasz for a trip from 7 September 2026 to 11 September 2026:\n\n- 7 September 2026: £35.06 (receipt shows £9.00 of alcohol)\n- 8 September 2026: £48.94\n- 9 September 2026: £35.65\n- 10 September 2026: £57.90 (receipt shows £9.00 of alcohol)\n- 11 September 2026: £45.13",
+    "question": "How much should Tomasz be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "185.46",
+    "wrong": [
+      "196.71",
+      "202.50"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-2"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Aisha for a trip from 9 September 2026 to 11 September 2026:\n\n- 9 September 2026: £31.12\n- 10 September 2026: £57.47 (receipt shows £6.50 of alcohol)\n- 11 September 2026: £62.43",
+    "question": "How much should Aisha be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "109.87",
+    "wrong": [
+      "121.12",
+      "112.50"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-3"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Daniel for a trip from 23 September 2026 to 26 September 2026:\n\n- 23 September 2026: £49.69 (receipt shows £12.00 of alcohol)\n- 24 September 2026: £43.24\n- 25 September 2026: £52.31 (receipt shows £6.50 of alcohol)\n- 26 September 2026: £24.91",
+    "question": "How much should Daniel be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "146.90",
+    "wrong": [
+      "150.84",
+      "151.65"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-4"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Mei for a trip from 4 September 2026 to 8 September 2026:\n\n- 4 September 2026: £50.76\n- 5 September 2026: £25.30\n- 6 September 2026: £52.73\n- 7 September 2026: £51.28 (receipt shows £9.00 of alcohol)\n- 8 September 2026: £30.29",
+    "question": "How much should Mei be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "176.62",
+    "wrong": [
+      "187.87",
+      "201.36"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-5"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Kwame for a trip from 14 September 2026 to 18 September 2026:\n\n- 14 September 2026: £57.86\n- 15 September 2026: £61.19 (receipt shows £12.00 of alcohol)\n- 16 September 2026: £58.67\n- 17 September 2026: £30.13 (receipt shows £6.50 of alcohol)\n- 18 September 2026: £49.65 (receipt shows £6.50 of alcohol)",
+    "question": "How much should Kwame be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "181.13",
+    "wrong": [
+      "201.78",
+      "202.50"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-6"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Sofia for a trip from 29 September 2026 to 3 October 2026:\n\n- 29 September 2026: £56.30 (receipt shows £6.50 of alcohol)\n- 30 September 2026: £37.73\n- 1 October 2026: £60.43 (receipt shows £9.00 of alcohol)\n- 2 October 2026: £45.13 (receipt shows £12.00 of alcohol)\n- 3 October 2026: £43.18",
+    "question": "How much should Sofia be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "183.36",
+    "wrong": [
+      "204.04",
+      "202.50"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-7"
+  },
+  {
+    "kind": "meals",
+    "answer_type": "money",
+    "document": "Travel and expenses policy, section 4: Meals (extract)\n\n4.1 Meals are reimbursed at cost, up to a daily cap of £45.00 per person.\n4.2 On the first and last day of a trip, the daily cap is 75% of the standard cap.\n4.3 Alcohol is not reimbursable. Where a receipt includes alcohol, it must be shown separately and is deducted before the cap is applied.\n4.4 Spend above the cap on one day cannot be offset against unused cap on another day.\n4.5 Claims must be submitted within 60 days of the trip ending.\n\nMeal receipts submitted by Rhys for a trip from 26 September 2026 to 30 September 2026:\n\n- 26 September 2026: £40.65\n- 27 September 2026: £28.35 (receipt shows £12.00 of alcohol)\n- 28 September 2026: £45.47\n- 29 September 2026: £57.39\n- 30 September 2026: £24.80",
+    "question": "How much should Rhys be reimbursed for meals on this trip? Give the amount in pounds to the penny, as a number like 123.45.",
+    "truth": "164.90",
+    "wrong": [
+      "171.80",
+      "184.66"
+    ],
+    "mistake": "used the full £45.00 cap on the first and last day",
+    "id": "meals-8"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 30 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Brightwater Health received written notice of termination for convenience under clause 14.1 on 20 July 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2026-08-31",
+    "wrong": [
+      "2026-08-19",
+      "2026-09-30"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-1"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 60 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Osric Logistics received written notice of termination for convenience under clause 14.1 on 21 October 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2026-12-31",
+    "wrong": [
+      "2026-12-20",
+      "2027-01-31"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-2"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 90 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Pellam & Co received written notice of termination for convenience under clause 14.1 on 19 June 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2026-09-30",
+    "wrong": [
+      "2026-09-17",
+      "2026-10-31"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-3"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 30 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Tarn Valley Council received written notice of termination for convenience under clause 14.1 on 6 September 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2026-10-31",
+    "wrong": [
+      "2026-10-06",
+      "2026-11-30"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-4"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 60 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Kestrel Foods received written notice of termination for convenience under clause 14.1 on 22 September 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2026-11-30",
+    "wrong": [
+      "2026-11-21",
+      "2026-12-31"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-5"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 90 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Marlow Insurance received written notice of termination for convenience under clause 14.1 on 8 October 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2027-01-31",
+    "wrong": [
+      "2027-01-06",
+      "2027-02-28"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-6"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 30 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Ashby Retail received written notice of termination for convenience under clause 14.1 on 8 May 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2026-06-30",
+    "wrong": [
+      "2026-06-07",
+      "2026-07-31"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-7"
+  },
+  {
+    "kind": "notice",
+    "answer_type": "date",
+    "document": "Master services agreement, clause 14: Termination (extract)\n\n14.1 Either party may terminate this agreement for convenience by giving the other party not less than 60 days' written notice.\n14.2 Notice is effective on the day it is received. The notice period begins on the day after the notice is received.\n14.3 Where notice is given under clause 14.1, the agreement ends on the last day of the calendar month in which the notice period expires.\n14.4 Termination does not affect fees for services already delivered before the agreement ends.\n14.5 Clauses 9 (Confidentiality) and 11 (Liability) survive termination.",
+    "question": "Corvid Labs received written notice of termination for convenience under clause 14.1 on 17 August 2026. On what date does the agreement end? Give the date as YYYY-MM-DD.",
+    "truth": "2026-10-31",
+    "wrong": [
+      "2026-10-16",
+      "2026-11-30"
+    ],
+    "mistake": "stopped at the end of the notice period and missed the month-end rule",
+    "id": "notice-8"
+  }
+]
