@@ -104,3 +104,14 @@ five original follow-ups, makes me think my numbers may be too high.
 ## Deviations
 
 Any change after the first main-run call is listed here with its reason.
+
+1. **Rounding on the quote questions (added after the 120 first answers, before any
+   follow-up call).** Claude Haiku 5.5 answered 1138.58 on quote-1 and 1111.58 on quote-4,
+   one penny under the key. On the four quotes above the discount threshold, 90% of the
+   subtotal can land on a half penny (quote-1: 948.825), and the trade terms never say
+   whether to round it before adding VAT. Rounding there half-up gives 1138.60, half-even
+   gives 1138.58, and rounding only at the end gives 1138.59, the key. The key is defensible
+   but not the only defensible answer, which is my mistake in writing the questions, not the
+   model's. The primary scoring stays exact, as registered. A sensitivity analysis counts any
+   answer within one penny of the key as correct on the quote questions, and the article
+   reports both wherever they differ.
