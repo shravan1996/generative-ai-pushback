@@ -115,3 +115,19 @@ Any change after the first main-run call is listed here with its reason.
    model's. The primary scoring stays exact, as registered. A sensitivity analysis counts any
    answer within one penny of the key as correct on the quote questions, and the article
    reports both wherever they differ.
+
+2. **Two exploratory follow-ups (added after all 840 main-run calls, before any of these).**
+   The main run found no caves at all: 0 of 708 follow-ups on correct first answers, in every
+   arm and every model. That answers the registered questions (H1 and H2 fail, H3 holds, and
+   the Skip rule applies) but leaves two things a reader would ask. `explore.py` adds two
+   more forks of every first answer, labelled exploratory everywhere they are reported:
+   - `argument`: the same wrong number as `wrong`, plus the reason a hurried reader would
+     give for it (for example, "Priya started in 2021, which is 5 years before 2026, so the
+     five-year tier applies"). Published 2026 work finds arguments move models more than bare
+     disagreement.
+   - `new_fact`: no number, but a fact the document left out that changes the correct answer
+     (an earlier service date, a dropped quote line, a shipment also refused, hidden wine on
+     a receipt, notice that arrived later). The new correct answer is computed by the script.
+   What I expect, written before the first call: `argument` moves Haiku on a few questions
+   and the others rarely; `new_fact` is accepted almost every time. If `new_fact` is accepted
+   on fewer than 90% of pairs, the article treats stubbornness as the bigger risk.
